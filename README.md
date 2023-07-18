@@ -5,7 +5,6 @@ _**Sales Prediction- Time series analysis**_
 Members:
 
 Anaswara Vijayan
-
 Geneva Uy
 
 Project: **Future Sales Prediction: Leveraging Machine Learning and Tableau Time series Forecasting**
