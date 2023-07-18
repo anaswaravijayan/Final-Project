@@ -10,7 +10,8 @@ Geneva Uy
 Project: **Future Sales Prediction: Leveraging Machine Learning and Tableau Time series Forecasting**
 
 
-Goal: The goal of this project is to build a machine learning model that can predict the creditworthiness of credit card applicants.
+Goal: The goal of this project is to develope a machine learning model and integrate Tableau Visualization that leverages time series analysis techniques to forecast future values based on historical data.
+
 Further Information:
 
 Data Source: www.kaggle.com
