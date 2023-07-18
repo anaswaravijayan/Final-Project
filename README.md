@@ -7,7 +7,7 @@ Members:
 Anaswara Vijayan  
 Geneva Uy
 
-Project: **Future Sales Prediction: Leveraging Machine Learning and Tableau Time series Forecasting**
+Project: **Future Sales Prediction - Leveraging Machine Learning and Tableau Time series Forecasting**
 
 
 Goal: The goal of this project is to develope a machine learning model and integrate Tableau Visualization that leverages time series analysis techniques to forecast future values based on historical data.
