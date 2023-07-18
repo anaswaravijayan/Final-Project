@@ -20,8 +20,8 @@ Link: https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
 
 Number of Datasets:
 
-First Dataset: 
-Second Dataset: 
+Dataset: 9994 rows × 21 columns   
+
 Project Planning Schedule:
 
 Day 1:
