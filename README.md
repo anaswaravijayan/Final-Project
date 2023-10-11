@@ -2,7 +2,7 @@
 _**Sales Prediction- Time series analysis**_
 
 
-Members:
+Authors:
 
 Anaswara Vijayan  
 Geneva Uy
